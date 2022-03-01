@@ -1,0 +1,1175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The picture of incest. Liuely portraicted in the historie of Cinyras and Myrrha. / By Iames Gresham..</title>
+            <title>Metamorphoses. English. Selections</title>
+            <author>Ovid, 43 B.C.-17 or 18 A.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00476</idno>
+            <idno type="STC">STC 18969</idno>
+            <idno type="STC">ESTC S125905</idno>
+            <idno type="EEBO-CITATION">56572901</idno>
+            <idno type="OCLC">ocm 56572901</idno>
+            <idno type="VID">181001</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181001)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2152:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The picture of incest. Liuely portraicted in the historie of Cinyras and Myrrha. / By Iames Gresham..</title>
+                  <title>Metamorphoses. English. Selections</title>
+                  <author>Ovid, 43 B.C.-17 or 18 A.D.</author>
+                  <author>Gresham, James, fl. 1626.</author>
+               </titleStmt>
+               <extent>[4], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.A.,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1626..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: Ovidij Metamorphosis. Lib. X.</note>
+                  <note>Signatures: A¹²(A₁ recto, signature-mark between ornamental bands, verso blank), B⁶(B₆ blank).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:181001:1" rendition="simple:additions"/>
+            <p>THE PICTVRE OF INCEST.</p>
+            <p>Liuely PORTRAICTED IN THE HISTORIE of CINYRAS and MYRRNA.</p>
+            <p>
+               <hi>By</hi> Iames Greſham.</p>
+            <p>LONDON. Printed for <hi>R. A.</hi> 1626.</p>
+            <pb facs="tcp:181001:2" rendition="simple:additions"/>
+            <pb facs="tcp:181001:2" rendition="simple:additions"/>
+            <p>A</p>
+            <pb facs="tcp:181001:3"/>
+            <pb facs="tcp:181001:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181001:4"/>
+            <pb n="1" facs="tcp:181001:4"/>
+            <head>OVIDIj METAMOR<g ref="char:EOLhyphen"/>PHOSIS.</head>
+            <head>LIB. X.</head>
+            <lg>
+               <l>OF ſtrange diſaſters ſhall my Muſe now ſing</l>
+               <l>Fathers approach not you my Carolling.</l>
+               <l>Nor you faire Daughters, that in vertue glory,</l>
+               <l>To taint your chaſt eares with my luſtfull ſtory:</l>
+               <l>Or if my poore vnpoliſht lines haue power</l>
+               <l>To yeeld delight vnto thoſe harts of your,</l>
+               <l>Let me not be beleeu'd nor this my tale</l>
+               <l>Be thought of any credible availe.</l>
+               <l>Or if to ſo much truth they 'gaine conſent</l>
+               <l>Yet with the fact beleeue the puniſhment.</l>
+               <l>And ſith Dame Nature hath ſo farre tranſgreſt</l>
+               <l>To ſuffer ſuch a deed to be confeſt</l>
+               <pb n="2" facs="tcp:181001:5"/>
+               <l>I'me glad <hi>Iſmaria</hi> and our <hi>Orphean Thrace</hi>
+               </l>
+               <l>Are not polluted with an act ſo baſe.</l>
+               <l>And that our natiue ſoyle ſo diſtant lies,</l>
+               <l>From thoſe wherein there are ſuch villanies.</l>
+               <l>Let Sweet <hi>Pancha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a</hi> be with riches ſpred,</l>
+               <l>And fragrant flowers rarely diapred.</l>
+               <l>May there the taſt delighting Cynamon,</l>
+               <l>Sent pleaſing <hi>Costus</hi> and the daintie gum</l>
+               <l>Of ſweet extracted Frankinſence there grow,</l>
+               <l>Whilſt that alone can only MYRRHA ſnow.</l>
+               <l>But ſure that tree could not enforce a deed</l>
+               <l>So bad, from ſo much goodneſſe to proceed</l>
+               <l>No (MYRRHA) no CYPID himſelfe denies</l>
+               <l>To lend his ayde vnto ſuch ſurquedries,</l>
+               <l>And vindicates his flames from the leaſt wrongs</l>
+               <l>That to ſuch beſtialitie belongs.</l>
+               <l>No, rather haue ſome <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ygean</hi> fate inſpir'd</l>
+               <l>Thee, with a wiſh by none to be deſir'd.</l>
+               <l>'Tis lewd to loath, the parent thou ſhouldſt rate</l>
+               <l>But this thy loue doth euen exceed that hate,</l>
+               <l>Making thee odious and vnfit to owne</l>
+               <l>That good the Gods vpon thee haue beſtowne.</l>
+               <l>On each hand art thou round beſet with ſuers</l>
+               <l>Both home nobilitie and forraigne woers.</l>
+               <l>That both in wit and armes contend and ſey</l>
+               <l>How to beare thee (the wiſhed prize) away.</l>
+               <pb n="3" facs="tcp:181001:5"/>
+               <l>Of theſe then (MIRRHA) chooſe thee one <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o</l>
+               <l>Thy happy Spouſe, and let thy Sire be Hee.</l>
+               <l>Hereon ſhe ponders, and her luſt oppoſes,</l>
+               <l>And (to her ſelfe) <hi>what fury</hi> (ſayes) <hi>diſcloſes</hi>
+               </l>
+               <l>My franticke mind? what can I better doe?</l>
+               <l>You Sacred gods and lawes Parentall too</l>
+               <l>As you prohibite ſuch a deeds Commiſſion</l>
+               <l>Reſiſt in me this lawleſſe diſpoſition:</l>
+               <l>(If it at leaſt be lawleſſe) But ſuch fauours</l>
+               <l>Pitty forbids to be thought misbehauiours.</l>
+               <l>Since other creatures without cenſuring crime</l>
+               <l>Doe freely couple in their owne due time.</l>
+               <l>The little Heifar ſcarce yet ag'd a yeare</l>
+               <l>Her owne begetter on her backe may beare</l>
+               <l>Yet not be turpious, And the luſtie Steed</l>
+               <l>Couer the Mare which ſprung from his own ſeed</l>
+               <l>The leacherous Goat too, leapes the female ſhe</l>
+               <l>From whom himſelfe was gendred: and that hee</l>
+               <l>Proceeding from them both, by carnall vſe</l>
+               <l>Oft tups the Dam that did himſelfe produce.</l>
+               <l>Birds with each other too doe mate and by</l>
+               <l>The ſo vp hatch'd doe like fruct. fie.</l>
+               <l>And I no reaſon ſee but wee as well</l>
+               <l>May freely doe, when nature doth compell:</l>
+               <l>O happy they, that haue this Freedomes bliſſe</l>
+               <l>To couple where they liſt without amiſſe,</l>
+               <l>But moſt vnhappie we that muſt obey</l>
+               <l>Such lawes as humane care prouides for ſtay.</l>
+               <pb n="4" facs="tcp:181001:6"/>
+               <l>And that whereto our natures moſt doe plie vs</l>
+               <l>That only ſhould thoſe enuious lawes denie vs.</l>
+               <l>Yea, there are Nations too ('tis ſaid) wherein</l>
+               <l>The bearing mother with her ſonne doth ſin,</l>
+               <l>And the ingendring Sire his Daughter proue,</l>
+               <l>And by this courſe ingeminate their loue,</l>
+               <l>Accurſed I that (louing as I doe)</l>
+               <l>'Twas not my fortune to be borne there too.</l>
+               <l>But by this <hi>Jſtands</hi> too too happy fate</l>
+               <l>(Euen) ſeeking loue, muſt ſeeme degenerate.</l>
+               <l>But why revolue I thus? what helpe accrewes</l>
+               <l>To my deſires by the words I vſe?</l>
+               <l>Hence therefore you forbidden rhoughts and flie</l>
+               <l>The troubled breſt wherein you lurking lie.</l>
+               <l>'Tis true, my Father hath a power to moue</l>
+               <l>An ycie diſpoſition vnto loue.</l>
+               <l>But yet in me can loue, nor like no beauty,</l>
+               <l>That aymes at ought beyond a filiall duty.</l>
+               <l>Were my fate ſuch, that I were not his daughter,</l>
+               <l>My wiſh would then be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſuch heynous matter,</l>
+               <l>"A ſmiling fortune might ſo farre preuaile</l>
+               <l>To bring me to his bed with wind and ſaile,</l>
+               <l>But now (ſo ill hath deſtiny ordain'd)</l>
+               <l>That though ſhe's mine there's nothing therein gain'd,</l>
+               <l>Since that proximitie which ſhould combine</l>
+               <l>Denies me to be his, or make him mine.</l>
+               <pb n="5" facs="tcp:181001:6"/>
+               <l>O would I therefore were ſome other Sires,</l>
+               <l>That I on him might ſatiate my deſires</l>
+               <l>"And loſe my ſelfe amidſt thoſe pleaſing charms</l>
+               <l>Whi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h liue within the circle of his armes:</l>
+               <l>Or that 'twere poſſible for me, by flight</l>
+               <l>(Leauing theſe confines and my Countries ſight)</l>
+               <l>To flie my deſtinated woe, and ſhun</l>
+               <l>The ſhelfe that threatens my confuſion.</l>
+               <l>But a prepoſterous-burning-luſt reſtraines</l>
+               <l>My power from doing ſo, in amorous chaines,</l>
+               <l>Permitting me thus farre to reach at bliſſe</l>
+               <l>To heare, and ſee, and touch, and ſomtimes kiſſe</l>
+               <l>Though beyond that he grant me nothing more</l>
+               <l>T'enrich my wiſh, or make his vertue poore:</l>
+               <l>Beyond (ſaid I) fie on thee wicked mayd,</l>
+               <l>Canſt thou euen hope for more then th'aſt en<g ref="char:EOLhyphen"/>ioy'd</l>
+               <l>Or ſo beguile thy thoughts to thinke that he</l>
+               <l>(Though thou ſhouldſt craue't) would act ſuch villanie?</l>
+               <l>Doſt thou not weigh that further grants will cauſe</l>
+               <l>Both loſſe of name and breach of humane lawes?</l>
+               <l>And make enſuing ages that ſhall read,</l>
+               <l>Thy hapleſſe ſtory, bluſh at thee though dead?</l>
+               <l>What? would<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt thy Mothers rivall be, yea more</l>
+               <l>Thy Fathers foule adulterated whore?</l>
+               <pb n="6" facs="tcp:181001:7"/>
+               <l>Or thy owne Daughters ſiſter? and a Mother</l>
+               <l>To that abortiue birth thou ſhouldſt cal brother?</l>
+               <l>Doſt thou not dread thoſe haire ſnak't furies ires</l>
+               <l>That doe not onely ſee thy foule deſires</l>
+               <l>But can and will (vnto thy deeds extent)</l>
+               <l>Adde a condigne enſuing puniſhment?</l>
+               <l>O quake to thinke on't, and wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt yet th'art free</l>
+               <l>Taint not thy vertuous minde, nor let there bee</l>
+               <l>A baſe pollution of that natures h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſts</l>
+               <l>Which quite prohibites ſuch vniuſt requeſts.</l>
+               <l>And which thogh thou ſhouldſt (as thou crau'it obtaine)</l>
+               <l>Wou'd euen at beſt be but a fleeting gaine.</l>
+               <l>My father too, is pious, and preciſe</l>
+               <l>In due obſeruing of his Countries guiſe</l>
+               <l>And one that by no fafcinating art</l>
+               <l>Will be ſed<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ced to render vp his hart:</l>
+               <l>(Though ô I wiſh (and feruently defire)</l>
+               <l>There burnt in him the ſelfe ſame ardent fire,</l>
+               <l>That as my hart on his perfections doate</l>
+               <l>So he of me and mine would take like note.)</l>
+               <l>But deepe and ſtrange muſt that art be can lure</l>
+               <l>A mind ſo good to ought that's ſo impure.</l>
+            </lg>
+            <lg>
+               <l>Thus to her ſelfe ſhe ſayd. But ſtupid hee</l>
+               <l>(Whom plenty of great ſuters made to be</l>
+               <pb n="7" facs="tcp:181001:7"/>
+               <l>Ambiguous what to doe) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tle ſuppoſing</l>
+               <l>Her thoughts bent to a fact of ſo much loathing,</l>
+               <l>With ſecret ſcrutmy aſſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es to know,</l>
+               <l>(By i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erating ſuch as d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d her woe)</l>
+               <l>Towards whoſe deſert, her beſt affection ſtands</l>
+               <l>To linke herſelfe in matrimoniall bands.</l>
+               <l>To this at firſt ſhe lockes her lips (as gri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing</l>
+               <l>To thinke how farre her wiſh was from relieuing)</l>
+               <l>But after looking with tranſpeircing eves</l>
+               <l>Vpon her Sire! (whoſe loue 'twas did ſurprize</l>
+               <l>Her hart with luſt,) vents from her troubled breſt</l>
+               <l>Vollies of ſighes (<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſymtomes of vnreſt)</l>
+               <l>And from her roſe cheeke a dew let<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> glide</l>
+               <l>Of pearly teares (like thoſe in ſummer tide</l>
+               <l>Falling on the ripe Cherries which the ſun</l>
+               <l>After exhales from lying thereupon,)</l>
+               <l>And with this teare diſtilied ſhewre doth ſhroud</l>
+               <l>Her ſtarre like cyes within her appr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n cloud.</l>
+               <l>Which ſtrange diſtemperature of hers her father</l>
+               <l>Deeming of feare (not luſt) yet knowing neither</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o bids her weeping and with gentle touch</l>
+               <l>Wipes her wet eyes, then kiſſes her as mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>With which ſhe ſeemes to be ſo much ore<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oy'd</l>
+               <l>That ſhe (<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uen) wiſhes to be ſtill thus cloy'd</l>
+               <l>With the Ambroſiack: Nectar of his lips,</l>
+               <l>And neuer to be out of this Ecclipſe.</l>
+               <pb n="8" facs="tcp:181001:8"/>
+               <l>He thinking now, if euer had his cariage</l>
+               <l>Won a wiſht time to win her vnto mariage,</l>
+               <l>Conſults againe with her deſires to find</l>
+               <l>What kind of man it was would pleaſe her mind</l>
+               <l>To whom (as glad by this meanes to expreſſe</l>
+               <l>The whice ſhe leveld at in this diſtreſſe,)</l>
+               <l>She thus replies, the man that muſt obtaine</l>
+               <l>The conqueſt of my heart, and my bed gaine,</l>
+               <l>Muſt in all parts (deere Sire) reſemble thee,</l>
+               <l>Or neuer looke to be imbrac'd by mee.</l>
+               <l>Whilſt he (not knowing her cloſe thoughts) applauds</l>
+               <l>Of this her liking, and with lauiſh lauds,</l>
+               <l>Sayes, Daughter mayſt thou be thus dutious ſtill</l>
+               <l>And euermore obey thy fathers will.</l>
+               <l>The Gods will ſure reward thee for't, and crowne</l>
+               <l>Thy duty with perpetuall renowne.</l>
+               <l>No ſooner was that word of (duty) ſpoken,</l>
+               <l>But ſtraight her countenance with a change was ſtroken,</l>
+               <l>As conſcious to herſelfe of that ſoule fact</l>
+               <l>Which with her aged Sire ſhe ſought to act,</l>
+               <l>And grieuing that thoſe words, which ſhe inten<g ref="char:EOLhyphen"/>ded</l>
+               <l>To breake the yee, ſhould be miſapprehended.</l>
+               <l>It now was midnight and a ſilent ſleepe</l>
+               <l>Did cares from mind, &amp; toyles from body keepe,</l>
+               <pb n="9" facs="tcp:181001:8"/>
+               <l>When watchfull MIRRHA (too too hapleſſe Mayd)</l>
+               <l>Is to her former enemy betray'd,</l>
+               <l>And ſo purſued by her vnquiet thoughts</l>
+               <l>That night no ſleepe vnto her eyes allots,</l>
+               <l>But doth againe retract that lewd deſire</l>
+               <l>Which blew the coles to this inceſtious fire.</l>
+               <l>And one while timerouſly diſpaires to try</l>
+               <l>And yet againe reſolues it by and by.</l>
+               <l>Shaming to aske ſhe couets what ſhe ſhames</l>
+               <l>And theſe vnwilling willing motions blames:</l>
+               <l>On euery ſide is her attempt beſet</l>
+               <l>With hope to forward and with feare to let</l>
+               <l>And in this conflict what her hart ſhould doe</l>
+               <l>Cannot reſolue or giue conſent vnto.</l>
+               <l>But as the tree hewne by the ſharpe edg'd ſteele</l>
+               <l>After a many wounds begins to reele,</l>
+               <l>Tremblingly doubtfull on which hand to fall</l>
+               <l>And is on euery ſide much fear'd of all,</l>
+               <l>So ſtood ſhe ſhaken with a various paſſion</l>
+               <l>By her too <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emerous timerous inclination.</l>
+               <l>That which diſwades ſeems light, &amp; what allures</l>
+               <l>As great and iuſt a puniſhment procures,</l>
+               <l>And nothing can her thoughts intend, but ſirai't</l>
+               <l>One change or other on thoſe thoughts do waite</l>
+               <l>"(Much like the billowes of the boyling ſea</l>
+               <l>"In a tempeſtious and cloudy day</l>
+               <pb n="10" facs="tcp:181001:9"/>
+               <l>"Where one waue following the firſt amaine</l>
+               <l>"Comes ſtraight a third that breaks them both (in twaine)</l>
+               <l>No meane nor eaſe can her diſtempers finde</l>
+               <l>But that which death affords the loue-ſick minde</l>
+               <l>And that indeed ſhe hugges and ſtraight reſolues</l>
+               <l>To put in execution: Then inuolues</l>
+               <l>Her faire necke with her Z<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne, tred to that heigth</l>
+               <l>That falling thence ſhe ſo might clime to death.</l>
+               <l>And hauing thus prepar'd herſelfe to run</l>
+               <l>On her owne wofull ſad confuſion</l>
+               <l>Farewell Deare father (cries ſhe) when l'medead</l>
+               <l>Let (yet) my deaths cauſe be remembered</l>
+               <l>And ſince my life durſt not my loue make known</l>
+               <l>Let my deſires by this my death be ſhowne.</l>
+               <l>And therewith apts her girdles knot t'enchaine</l>
+               <l>Her azure veyned-neeke, to caſe her paine.</l>
+            </lg>
+            <lg>
+               <l>'Tis ſaid the mournefull murnour of her teares</l>
+               <l>And ſorrowes tones, came to her nurſes eares,</l>
+               <l>Who then (full little dreaming what a fact</l>
+               <l>Her foſter charge was now about to act</l>
+               <l>Of ſelfe contriuing death) was not farre layd</l>
+               <l>From the ſad ſtage wheron this Scene was playd</l>
+               <l>And hearing her ſtraight riſes, and with ſpeed</l>
+               <l>Opening the doores, and gueſſing at the deed</l>
+               <pb n="11" facs="tcp:181001:9"/>
+               <l>By what ſhe ſaw prouided; firſt, expreſſes</l>
+               <l>Her wo ider by her cryes, tearing her treſles,</l>
+               <l>And miſe rably macer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting with her knife</l>
+               <l>Her age plough'd boſome; then (to ſaue her life)</l>
+               <l>Breaks from her tender neck, that ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d knot, tied</l>
+               <l>By which ſo ſweet a beauty ſought t'haue died.</l>
+               <l>And with ſof<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kind embraces, bids her cleere</l>
+               <l>I hoſe heauens (her eye) that weepimg clouded were.</l>
+               <l>Earneſily crauing what the cauſe might be</l>
+               <l>That drag'd her thoughts to this ſelfe tragedy.</l>
+               <l>Whilſt ſhe as (one dumb ſtrucken) ſtands at gaze</l>
+               <l>With a dejected looke, and nothing ſayes</l>
+               <l>But gri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ues that by her death's too ſlow diſpatch</l>
+               <l>Her too kind nurſe ſhould her ſo tardy catch.</l>
+               <l>Shee good old nurſe conjures her ſtill with loue</l>
+               <l>To ſhew what did theſe teares effuſion moue</l>
+               <l>And with her nakd and wrinckled breſts diſplayd</l>
+               <l>(Which hoary age had dry and withered made)</l>
+               <l>Entreats her, by her infant Swathlings, and</l>
+               <l>The food ſhe firſt receiued from her hand</l>
+               <l>(When in her now exhauſt and ſhriueld nipple</l>
+               <l>There then was pleaſant milke for her to tipple)</l>
+               <l>That vnto her ſhe would thoſe griefes impart</l>
+               <l>Which ſeem'd ſo much to ouerload her hart,</l>
+               <l>"Perſwading her that griefes oft kill conceal'd</l>
+               <l>"But find redreſſe when th'are in time reueal'd.</l>
+               <pb n="12" facs="tcp:181001:10"/>
+               <l>To all which MIRRHA ſtill with ſilent gaze</l>
+               <l>(Turning aſide) ſighes, but yet nothing ſayes;</l>
+               <l>"As one whoſe thoughts preſaging no reliefe</l>
+               <l>Would rather dye then vtter forth her griefe.</l>
+               <l>The gentle Nurſe (as yet in knowledge blind</l>
+               <l>What theſe diſtempers mou'd, but bent to find</l>
+               <l>The fount from whence they flow'd: (with promiſe made</l>
+               <l>Both of her ſecreſie and vtmoſt ayde.</l>
+               <l>(To her beſt age worne ſtrength) mought that might</l>
+               <l>Aſſwage theſe paſſions, or her hert delight,)</l>
+               <l>Againe thus woes her, Sweet child, let me know,</l>
+               <l>What ſodaine griefe this is torments thee ſo.</l>
+               <l>And what my ag'd experience can redreſſe</l>
+               <l>My willing power ſhall ſpeedily expreſſe.</l>
+               <l>Bee't a diſtracting frenzie, l'ue a charme,</l>
+               <l>Of ſoueraigne herbes to cure thee of that harme</l>
+               <l>Or bee'ſt thou hurt by ſome malignant fate,</l>
+               <l>I'ue yet a ſpell ſhall ſhield thee from that hate.</l>
+               <l>Or dreadſt thou ſome incenſed god, loe I</l>
+               <l>With ſacred rites that ire can pacifie.</l>
+               <l>What ſhould I more ſuggeſt? Good fortune, ſhee</l>
+               <l>Sweetly ſmiles on thee, and as yet wee're free</l>
+               <l>From all incurſions; yea, thy Sire and Mother</l>
+               <l>Are liuing too and nightly 'nioy each other.</l>
+               <pb n="13" facs="tcp:181001:10"/>
+               <l>MIRRHA no ſooner heares the name of Sire</l>
+               <l>Fall from her nurſes lippes, but all on fire</l>
+               <l>"(Like the dry flaxe to which the ſmalleſt cole</l>
+               <l>"Serues as a taper to enflame the whole.)</l>
+               <l>She breaths forth many a ſigh, whilſt ſtill th'old crone</l>
+               <l>The cauſe conceaues not of her heauy mone</l>
+               <l>But yet ſuſpects ſhe loues, and therefore ſtill</l>
+               <l>Stickes to her former purpoſe; and doth will</l>
+               <l>That whatſoeuer t'were ſhe yet would pleaſe</l>
+               <l>To let her know't and trie her ages eaſe.</l>
+               <l>And therewith takes the teare-diſtilling Mayd</l>
+               <l>Into her lap, and (with weake armes diſplaid</l>
+               <l>Empaling her faire corpes,) ſayes, come I know</l>
+               <l>The troubled ſpring from whence theſe ſtreames doe flow.</l>
+               <l>Thou art in loue, and either ſham'ſt to ſay</l>
+               <l>With whom, or doubtſt leſt I'le the ſame bewray.</l>
+               <l>But credit me my ayde ſhall ſerue t'expreſſe</l>
+               <l>How farre I am from ſuch perfidiouſneſſe:</l>
+               <l>Nor ſhall my tongue one word thereof reueale</l>
+               <l>Vnto thy Father, but the ſame conceale.</l>
+               <l>At which her ill concluding words enraged</l>
+               <l>(Breaking the pale, wherein ſhe was incaged</l>
+               <l>And with her face, preſſing the neighbour bed</l>
+               <l>As one more grieu'd the<g ref="char:cmbAbbrStroke">̄</g> joy'd by what ſh'ad ſed)</l>
+               <pb n="14" facs="tcp:181001:11"/>
+               <l>Cries, ô depart, and ſpare a further queſt</l>
+               <l>Of that which ſhame conſtraines me to deteſt,</l>
+               <l>And either leaue me to my ſelfe alone</l>
+               <l>Or ceaſe to queſtion more, my ruefull mone.</l>
+               <l>For what you craue, t'enrich your knowledge by</l>
+               <l>Is but a lewd inceſtious villany.</l>
+               <l>Hereat th'old beldam ſtarts. &amp; (what with feare</l>
+               <l>And bed rid age, of many a hoary yeare)</l>
+               <l>With trembling hands vpheau'd, doth groueling lye</l>
+               <l>To gaine the cauſe of this her miſery.</l>
+               <l>And one while with deluſiue flatterie ſues</l>
+               <l>To ſcrew it out, another while doth vſe</l>
+               <l>The ſharpe compulſiue menaces of death,</l>
+               <l>By ſhewing her the meanes to doe it with,</l>
+               <l>Adding withall to theſe her mixt perſwaſions</l>
+               <l>All her officious helpe t'aſſwage her paſſions.</l>
+            </lg>
+            <lg>
+               <l>Hart-grieued-MIRRHA, at theſe words erects</l>
+               <l>Her downe-caſt lookes, and with ſuch ſad effects,</l>
+               <l>As ſhew'd how deepe ſh'was hurt, with briny teare<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Bedewes her nurſes boſome, and ſtill feares</l>
+               <l>To let her know't, and yet was oft about</l>
+               <l>To make it knowne, yet would not let it out.</l>
+               <l>But with her veſture clouding thoſe faire skies</l>
+               <l>Wherein there ſhone at once, two ſun like eyes.</l>
+               <pb n="15" facs="tcp:181001:11"/>
+               <l>"(And by theſe words like h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le ſparks forſhowing</l>
+               <l>"What kind of fire 'twas in her breft was glow<g ref="char:EOLhyphen"/>ing</l>
+               <l>Sayes. Happy ô thrice happy art thou ſped</l>
+               <l>(Deare mother) that enioy'ſt my fathers bed.</l>
+               <l>And therewith ſighing, ſhuts her lips aſham'd</l>
+               <l>To vtter more, and therefore leaues't vnnam'd.</l>
+               <l>The aged nurſe hereat, with tremor fill'd</l>
+               <l>Is almoſt to a jelly pale diſtill'd,</l>
+               <l>And with her ſnow-white haires, briſled vpright</l>
+               <l>(ſhewing how much theſe words her hart affright)</l>
+               <l>Striues with requeſt, to make her ſhun that ſhelfe</l>
+               <l>By which ſhe ſought to ſhipwracke her faire ſelfe,</l>
+               <l>And (if 'twere poſſible) to quench that flame</l>
+               <l>Which ſeem'd to kindle ſuch a fire of ſhame.</l>
+               <l>But ſhe, (though knowing what her nurſe aduis'd</l>
+               <l>Was friendly counſell (not to be deſpis'd)</l>
+               <l>And on what dangerous Seas her luſt muſt Saile</l>
+               <l>Before it could arriue, where't might availe)</l>
+               <l>Reſolues (for ſure) that if ſhe did not reape</l>
+               <l>The fruit Towne with ſo many teares, to heape</l>
+               <l>Vpon her luſt, ſelfe murther, and thereby</l>
+               <l>To end at once both life and miſery.</l>
+               <l>Her louing Nurſe, fearing this reſolution</l>
+               <l>Might proue indeed her beauties diſſolution</l>
+               <l>(If not preuented) to her wounds applies</l>
+               <l>Sage ſoueraigne oyles of age-taught ſubtilties,</l>
+               <pb n="16" facs="tcp:181001:12"/>
+               <l>And bids her liue, and rather then deſtroy</l>
+               <l>So ſweet a fabricke, fully to enioy</l>
+               <l>Her ſo much lou'd—: but durſt not (father) name</l>
+               <l>For feare to moue in her both griefe and ſhame,</l>
+               <l>And to theſe words of comfort, ſweares to ioyne</l>
+               <l>Her beſt endeauour, to content her mind.</l>
+               <l>'Twas now the ripening Autumne, the wiſht</l>
+               <l>Wherein the aged matrons of that Clime,</l>
+               <l>With Snow white veſtures o're their bodies ſpred time</l>
+               <l>And each a Corne made garland on her head,</l>
+               <l>Did vſe to celebrate the annuall Feaſts</l>
+               <l>Of Sacred CERES with their corne and beaſts.</l>
+               <l>'Gainſt which ſolemnitie, for nine nights ſpace</l>
+               <l>All veniall acts of manly ſweet embrace</l>
+               <l>Were quite prohibited: Vnto this throng</l>
+               <l>Comes the ag'd wife of CINYRAS among.</l>
+               <l>Willing to act the ſecret miſteries</l>
+               <l>Of thoſe Commanding Sacred Dieties.</l>
+               <l>And to omit no ſeruice, which might ſhow</l>
+               <l>The great reſpect ſhe to thoſe gods did owe.</l>
+               <l>Whilſt therefore by theſe rites, the nuptiall bed</l>
+               <l>Was of its lawfull charge disburthened.</l>
+               <l>The ill ſeducing Nurſe, (whom age had made</l>
+               <l>A ſound proficient in this kind of trade)</l>
+               <l>Hauing with wine and faſcinating Art</l>
+               <l>Bereft the weake brain'd CINYRAS of his hart</l>
+               <pb n="17" facs="tcp:181001:12"/>
+               <l>And brought him to her lure (by cunning gloze)</l>
+               <l>Doth MIRRHA'S loue in a forg'd name diſcloſe,</l>
+               <l>Flattering his fancy with a faigned lye,</l>
+               <l>That ſuch a virgin lou'd him whoſe bright eye</l>
+               <l>Reflected rayes of wonder, and ſhould he</l>
+               <l>Deny her what ſhe ſought, 'twould doubtleſſe be</l>
+               <l>Her liues conſumer, therefore craues with ſpeed</l>
+               <l>That hee'd accept her proffer in this need.</l>
+               <l>Adding ſuch further praiſes to her feature</l>
+               <l>As ſhe beſt thought might moue a yeelding na<g ref="char:EOLhyphen"/>ture.</l>
+               <l>He rapt with wonder ſtraight deſires to know</l>
+               <l>How old that beauty was, that lou'd him ſo,</l>
+               <l>To whom ſhe (ſence deluding-crone) replies</l>
+               <l>
+                  <hi>Her yeares</hi> and MIRRHA'S doe iuſt <hi>ſimpathize,</hi>
+               </l>
+               <l>And through my lifes long courſe I cannot tell</l>
+               <l>That e're I ſaw a neerer parralell.</l>
+               <l>Hereat he forthwith loues, and craues with ſpeed</l>
+               <l>To bring her to his bed, (the marke indeed,</l>
+               <l>At which ſhe aym'd) that ſo he might poſſeſſe</l>
+               <l>That ſence-delighting-rate-delitiouſneſſe.</l>
+            </lg>
+            <lg>
+               <l>No ſooner did his words his wiſh impart,</l>
+               <l>(As luſt ſtill ſpeeds when it is helpt by Art)</l>
+               <l>But backe returnes the old trott, to diſcouer</l>
+               <l>To her ſad charge, how ſhe had wonne her louer</l>
+               <pb n="18" facs="tcp:181001:13"/>
+               <l>And thus begins, reioyce child the thing's done</l>
+               <l>And that great difficultie's ouerthrowne</l>
+               <l>Which thou thoughtſt ſo impoſſible, and he</l>
+               <l>To whom thou late wert thrall'd, 's now ſlaue to thee.</l>
+               <l>Ill did th'vnhappy virgin entertaine</l>
+               <l>This hapleſſe knowledge of her Fathers gaine</l>
+               <l>As one whoſe heart too truely did preſage</l>
+               <l>The ſad euents of her luſt fired rage.</l>
+               <l>And therfore weeps; &amp; yet (like <hi>Aprill</hi> weather)</l>
+               <l>Againe ſtraight ſmiles, and ſo in truth doth nei<g ref="char:EOLhyphen"/>ther.</l>
+               <l>But as the current of her paſſions winde</l>
+               <l>So doe the various diſcords of her minde.</l>
+               <l>Now poſts ſwift wirged time towards night, with ſpeed,</l>
+               <l>Making the ſame as blacke as was the deed.</l>
+               <l>And with a Death-like ſilence hath poſſeſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Whateuer might diſturbe a quiet reſt.</l>
+               <l>And euen now, hath <hi>Charliſwaine-Chariot</hi> runne</l>
+               <l>His midway Iourney from the ſetting ſunne</l>
+               <l>When on <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he goes to perpe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rate that fact</l>
+               <l>Which none but ſuch a Minotoure would act.</l>
+               <l>The pale-fac'd Moone thereat aſham'd doth ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oud</l>
+               <l>Her ſiluer rayes, in an obſcuring cloud,</l>
+               <l>And thoſe bright Starres which nightly vs'd to blaze</l>
+               <l>Their glorious ſplendor, (to the worlds amaze</l>
+               <pb n="19" facs="tcp:181001:13"/>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re with blacke Curtaines ſo cloſe ouerſpred,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat not the leaſt can be diſcouered.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he night it ſelfe too wants that wonted light</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich vſually it had before that night</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd each thing ſo prodigiouſly ſeemes bent,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> if they juſtly fear'd a ſad euent.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hrice did her ſtumbling feet ſeeme to fore ſhow</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow ſwiftly ſhe was poſting to her woe,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd thrice th'ill boding ſcreech-owle with harſh throat</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roakes out an ominous and fatall note,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>euining what that foule acts end would be</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat in each Scene had ſo much prodigie.</l>
+               <l>But on ſhe trudg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s (ſhrowded by the darke</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om the leaſt luſtre of a ſhamefull ſparke.)</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith one hand holding her luſt guiding mother</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd groping out the blind way with the other.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t laſt ("as oft bad actions hit their ayme</l>
+               <l>Though in the end they periſh with the ſame)</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he findes the Chamber doore, and without din,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pening the ſame with ſoft pace enters in,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen ſtraight an aſpen tremor doth ſo ſhake</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er feeble timbred joynts, and therewith make</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er legs ſo falter, that with fatall lucke,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d ſhe the fruit from that forbid tree plucke.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e milke dipt roſe vermillion in her cheeke,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed from its ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate, ſome ſafer place to ſeeke,</l>
+               <pb n="20" facs="tcp:181001:14"/>
+               <l>And that Angel-like face (in which before</l>
+               <l>There ſate a godlike beauty to adore,</l>
+               <l>Did nothing but a bloodleſſe pale retaine</l>
+               <l>(To linke both deed and iſſue in one chaine.)</l>
+               <l>Her wonted courage leaues her too; and ſtill</l>
+               <l>The neerer ſhe approaches to her ill</l>
+               <l>The more ſhe trembles, and abhorres to thinke</l>
+               <l>How nigh ſhee was brought vnto her wiſhes brinke</l>
+               <l>It irkes her now that e're ſhe was ſo vnwiſe</l>
+               <l>To vndertake ſo hard an enterpriſe.</l>
+               <l>And onely wiſhes to retire, ſo none</l>
+               <l>Might either ſee her, or ſhe paſſe vnknowne.</l>
+               <l>But after long delay (ſtill ſteered by</l>
+               <l>Her age experienc'ſt Nurſes policie</l>
+               <l>In theſe diſtractions) ſhe attaines the Port,</l>
+               <l>(Her fathers bed) ſo long'd for in this ſort.</l>
+               <l>Whom when her Nurſe bequeaths to his deſires,</l>
+               <l>Here (ſayes ſhe) CINYRAS quench thy luſtfull fires<g ref="char:punc">▪</g>
+               </l>
+               <l>And ravell out thy thred of life in pleaſure,</l>
+               <l>With that which thou accountſt thy ages treaſure</l>
+               <l>Here mayſt thou ſatiate without ſurfet, and</l>
+               <l>Enioy more riches then thy Realme command.</l>
+               <l>And with this hart delighting-mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icke-ioynes</l>
+               <l>Their deſtinated b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſts for amorous twynes.</l>
+               <pb n="21" facs="tcp:181001:14"/>
+               <l>Such as indeed are onely free for thoſe,</l>
+               <l>That in a lawfull mariage bed repoſe.)</l>
+            </lg>
+            <lg>
+               <l>Hee ſence-deluded-ſire with armes diſplay'd</l>
+               <l>As one not dreaming to be thus betray'd)</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eceiues into his darke and wanton bed,</l>
+               <l>The tender bowels he ſo ſoſtered;</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd with his Nectar-candied-words, aſſayes</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o driue the Damſell from her virgin maze</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dding vnto theſe words ſuch pleaſing action</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s he beſt thought might giue her ſatisfaction.</l>
+               <l>And to compleat and make this tide of pleaſure</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>low to a greater heigth and fullier meaſure</l>
+               <l>Becauſe her age ſo iuſtly did reſemble</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>IRRHA'S, whom ſhee both was and did diſ<g ref="char:EOLhyphen"/>ſemble,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey interchange like names (as being nather)</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e her ſweet daughter calls; ſhe him kind father.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h'inceſtious game thus ended; and ſhe full</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f that adulterate fruite ſhe came to pull</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eparts, and leaues her new beguiled ſire</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o gueſſe what ſweet thus pleaſ'd his fond deſire</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earing within her wretched wombe that ſeed</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich nature made: but luſt did meerely breed,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd the next night returnes to cleere the ſcore</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich both had ioyntly left vnpaid before</l>
+               <pb n="22" facs="tcp:181001:15"/>
+               <l>Purſuing her deſires in that ſwift ſort</l>
+               <l>As if ſhe wiſh't no end to ſuch ſweete ſport.</l>
+            </lg>
+            <lg>
+               <l>At length, (when after many nights exchange</l>
+               <l>Of kind embrace betwixt theſe louers ſtrange</l>
+               <l>And equall intermixture of ſuch ſweets</l>
+               <l>As are there vs'd, where loue with like loue meets)</l>
+               <l>His mind began to craue one happy ſight</l>
+               <l>Of that obſcured fewell of delight</l>
+               <l>Which he ſo oft had lockt within his armes</l>
+               <l>(And freed from rougher handlings and worſe harmes</l>
+               <l>But neuer view'd, and onely in obſcuritie</l>
+               <l>Had cropt the ſweet flower of her vergin puritie</l>
+               <l>He forthwith craues accordingly, to ſee</l>
+               <l>What this ſame peereleſſe paragon might bee</l>
+               <l>Whom when apparently his eyes beheld</l>
+               <l>To be indeed his owne and only child</l>
+               <l>And therewith weigh'd what an abiſſe of ſin</l>
+               <l>His fordid beaſtiall luſt had plung'd him in</l>
+               <l>"(For vice as till't be acted's euer blind</l>
+               <l>"So when 'tis done it leaues a ſting behind.)</l>
+               <l>Diſtracting rage then ſo poſſeſt his hart</l>
+               <l>And greife his organ ſpeech, that vp he ſtart</l>
+               <l>And in his fury drawing forth the blade</l>
+               <l>Which fate for this her fault had ready layd,</l>
+               <pb n="23" facs="tcp:181001:15"/>
+               <l>Thought to haue ſheath'd it in that tender breſt</l>
+               <l>In which but now his chief'ſt content did reſt</l>
+               <l>But what with feare of this attempt, and ſtung</l>
+               <l>With the remembrance of that horrid wron<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Which ſhe (as in a chriſtall mirror true</l>
+               <l>The vaile vncouered) did now plainely view.</l>
+               <l>"(For perpetrated vice ſeene after action</l>
+               <l>"Appeares ſo foul it oft driues to diſtraction.)</l>
+               <l>Away ſhe flies, and by the helpe of night</l>
+               <l>Auoyds the tragicke end of her affright;</l>
+               <l>And vſher'd by her thoughts, at randome roues</l>
+               <l>Among the large and ſolitary groues.</l>
+               <l>Leauing the ſweet <hi>Arabia</hi> and thoſe fields</l>
+               <l>Of Rich <hi>Panchaia</hi> which rare odour yeelds,</l>
+               <l>And nine Moones wanders in this careleſſe race</l>
+               <l>Before her ſeare can find a reſting place;</l>
+               <l>Till in the end not able to ſuſtaine</l>
+               <l>A longer durance of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er grauid paine</l>
+               <l>She ſeats her in a Sabra where a while</l>
+               <l>She ſtriues her luſt bred ſorrowes to beguile,</l>
+               <l>But can ſcarce longer make her burthened womb</l>
+               <l>Th'inceſtious load therein inclos'd entombe.</l>
+               <l>With griefe whereof; (euen ignorant of prayer)</l>
+               <l>And almoſt brought vnto a foule diſpaire</l>
+               <l>By a hart wounding and afflicting ſtrife</l>
+               <l>Between<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a feared death and wearied life.</l>
+               <pb n="24" facs="tcp:181001:16"/>
+               <l>She thus in dolefull and ſoule grieuing plaints</l>
+               <l>Bewailes the diſcord of theſe Combatants,</l>
+               <l>O you all-ſacred-Dieties (quoth ſhe)</l>
+               <l>That rule the world with ſoueraigne Maieſtie</l>
+               <l>And guide the heauenly motions of the Spheare<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>With ſupreame power, if you haue any eares</l>
+               <l>To heare the wofull ſad and mournefull mones</l>
+               <l>Of poore diſtreſſed wretched mortall ones;</l>
+               <l>Such as with hearts vnfeigned doe confeſſe</l>
+               <l>Their ſoule-deepe vlcerated wickedneſſe.</l>
+               <l>Hearken ô hearken then vnto my cry</l>
+               <l>Who as I haue deſeru'd deſire to dye</l>
+               <l>And will not your dread powers inuoke to ſhun</l>
+               <l>The ſmarting rod of your correction.</l>
+               <l>Powre downe your angry vengeance on my head</l>
+               <l>That againſt nature haue thus treſpaſſed,</l>
+               <l>And let me now no longer liue to ſhame</l>
+               <l>The louely ſexe and roote from whence I came.</l>
+               <l>But leaſt my lingring life may be offence,</l>
+               <l>To ſuch as ſhall ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uiue my impudence,</l>
+               <l>And my dead corps thoſe neighbour graues diſtain</l>
+               <l>By whoſe offenceleſſe ſides they muſt be layne</l>
+               <l>Let me partake neither of life nor death</l>
+               <l>To grieue the one, or ſoyle the other with.</l>
+               <l>But ſo transformed bee, that I of either</l>
+               <l>May ſeeme poſſeſt, but yet indeed haue neither</l>
+               <pb n="25" facs="tcp:181001:16"/>
+               <l>No ſooner were theſe words effus'd, but ſtraite</l>
+               <l>A ſtrange effect vpon her wiſh did waite</l>
+               <l>Wrought by ſome certaine Dietie whoſe eare</l>
+               <l>Was bent her pitie mouing moane to heare,</l>
+               <l>And giue redreſſe to; For whilſt yet her prayer</l>
+               <l>Was vttering, (but not quite diſſolu'd to ayre)</l>
+               <l>Thofe goodly pillars, which but erſt did grace</l>
+               <l>Her ſtately mouing fabricke, in their pace</l>
+               <l>Were ſo inuolu'd within the humid earth,</l>
+               <l>As if they onely there had had their birth,</l>
+               <l>And from her fleſh transformed nayles and toes,</l>
+               <l>And out-ſtretcht crooked winding root there growes</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom whence the long truncke of the lofty tree</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eceiues its prime foundation and degree.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er body ſweet, ſo comely in each part</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth to the middle of the tree conuert,</l>
+               <l>Within whoſe metaphorphos'd Saphire veynes</l>
+               <l>The life maintayning marrowy-ſap remaynes.</l>
+               <l>Her faire enclapſing armes, (which but ere while</l>
+               <l>Were ſnares for amorous louers to entoyle</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir luſt-rapt ſences in,) were now eſtrang'd</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:cmbAbbrStroke">̄</g> what they were, &amp; to great branches chang'd</l>
+               <l>Through whoſe each little ſpray, her blood like juyce</l>
+               <l>Diſpreads it ſelfe with proſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e auarice.</l>
+               <pb n="26" facs="tcp:181001:17"/>
+               <l>Her dainty fingers too, (not hereto borne)</l>
+               <l>Into ſun ſhading litle boughes doe turne.</l>
+               <l>And finally her ſnow-white ſilke-ſmooth-skin</l>
+               <l>Becomes a rough hard barke of what't had bin,</l>
+               <l>Seruing to ſheild her (as her clothes had done)</l>
+               <l>Both from the winters rage and peircing ſun.</l>
+               <l>In this wiſe 'gins th'vpriſing tree t'entombe</l>
+               <l>Within its hollow graue her painefull wombe,</l>
+               <l>And hath with quicker ſpeed then thought, o're preſt</l>
+               <l>Thoſe loue-delighting hillockes of her breſt,</l>
+               <l>And with ſwift change is haſtening to enſhrine</l>
+               <l>Her ſtately necke within its rugged rine,</l>
+               <l>All which ſhe ſhuns not, but (as to her fate)</l>
+               <l>With willing minde her ſelfe doth ſubiugate</l>
+               <l>To the ſurreſcent barque; which gliding ouer</l>
+               <l>Doth (as a cloud the ſun) her faire face couer.</l>
+               <l>And though with this her bodies iuſt correction</l>
+               <l>She loft both light of reaſon and affection</l>
+               <l>Yet ſtill ſhe weepes, in ſigne whereof her teares<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>On the trees rine in luke-warne drops appeares.</l>
+               <l>Wherein a ſweet and odoriferous ſmell</l>
+               <l>Of ſence delighting fragrancy doth dwell.</l>
+               <l>Which for its worth a ſemblable name we giue</l>
+               <l>That no age ſhall forget nor time out liue.</l>
+               <pb n="27" facs="tcp:181001:17"/>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut now begins th'inceſtious birth to grow</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto it's full maturitie of woe.</l>
+               <l>Within the barke-wall'd limitts of the tree</l>
+               <l>Wherewith ſhe was incloſ'd in miſery)</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>triuing to burſt away through the darke tombe</l>
+               <l>Of her transform'd incarcerating wombe.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er grauid belly ſwels vnto that heigth</l>
+               <l>That each ſmall throb ſeemes now to threaten</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aking her ſtretch and ſtruggle with the paine death,</l>
+               <l>Which her ripe birth did vrge her to ſuſtaine.</l>
+               <l>Words ſhe hath none to vtter or expreſſe</l>
+               <l>The vnknowne meaſure of her wretchedneſſe.</l>
+               <l>Nor to iuuoake a gracious helpe from thoſe</l>
+               <l>Whoſe ſacred powres helpe women in their</l>
+               <l>But ſtill expects deliuery from that ſorrow throwes,</l>
+               <l>Which as it had no meane, no help could borrow.</l>
+               <l>The bending tree ſeemes with ſad hollow tones</l>
+               <l>To eccho forth her many ruthfull grones.</l>
+               <l>And with a floud of teares (guſht from her eyes)</l>
+               <l>Bedewes and wets it ſelfe in piteous wiſe,</l>
+               <l>Where at the tender-hearted IVNO (grieu'd</l>
+               <l>To ſee ſo much diſtreſſe, ſo vnrelieu'd.)</l>
+               <l>Standing as then cloſe by the mourning ſprayes</l>
+               <l>Puts to her helping hand, and then aſſaies</l>
+               <pb n="28" facs="tcp:181001:18"/>
+               <l>With words of Child-bed comfort to delude</l>
+               <l>The wounding ſence of this her ſollitude.</l>
+               <l>Forthwith the wombe-ſwolne-tree-begins to cracke</l>
+               <l>And through the cleauing barke doth paſſage make,</l>
+               <l>For nine moneths growth to enter-at, when loe</l>
+               <l>She ſtraight yeelds vp, the burthen of her woe,</l>
+               <l>Which had no ſooner birth, but (as allied</l>
+               <l>Vnto its mothers miſery) it cried.</l>
+            </lg>
+            <lg>
+               <l>The neighboring <hi>Naydes</hi> (whoſe cells not far<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>From her diſtreſt deliuery, diſtant were)</l>
+               <l>Hearing the cry, approach and in their armes</l>
+               <l>Firſt taking the yong babe (yet free from harmes)</l>
+               <l>And then with tender touch, laying him downe</l>
+               <l>Vpon the new growne, ſmooth, and ſoft graſs't-ground,</l>
+               <l>Embalme him with the ſweet-Mirrhe-trickling teares</l>
+               <l>Which on his tree-chang'd-mothers-barke ap<g ref="char:EOLhyphen"/>peares.</l>
+               <l>Swift poſting time had not long run his race</l>
+               <l>Before this birth began to waxe in face.</l>
+               <l>And each part elſe ſo louely, that his feature</l>
+               <l>Grew natures wonder in a ſo borne creature,</l>
+               <pb n="29" facs="tcp:181001:18"/>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Enuies ſelfe delight: For ſuch as was</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at beauty of the world, which did ſurpaſſe</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> others, whom the curious Artiſts paint</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tables naked; and doe doe call Loues <hi>Saint.</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en ſuch was he, and in a iuſt compare</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch way as louely ſweet, as young, as faire.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d taking from the firſt his bow and arrowes</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herewith he heales by loue, and wounds with ſorrowes.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> adding but the like vnto the tother</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u'd ſweare that this were CVPID &amp; no other.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>faire in matchleſſe beauty did his fate</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nſpire to make him, though vnfortunate.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:181001:19"/>
+            <pb facs="tcp:181001:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
